@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: ayush](https://img.shields.io/badge/-ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-baluni-1469a4241/)](https://www.linkedin.com/in/ayush-baluni-1469a4241/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/aayushbaluni?label=Follow&style=social)
 
 
 
