@@ -73,11 +73,11 @@ I'm a **committed AI coder** passionate about developing programs that are fasci
 
 ### Web3 & DeFi
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **AZURA Web3** | Web3 trading and crypto analytics platform | Next.js, Solana, TypeScript |
-| **Whale Aggregator DApp** | DeFi aggregator for whale tracking | React, Web3.js, Solana |
-| **Web3 TODO App** | Decentralized task management on blockchain | Solidity, Web3.js |
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **AZURA Web3** | Web3 trading and crypto analytics platform | Next.js, Solana, TypeScript | [Live](https://www.azuraos.fun/) |
+| **Whale Aggregator DApp** | DeFi aggregator for whale tracking | React, Web3.js, Solana | |
+| **Web3 TODO App** | Decentralized task management on blockchain | Solidity, Web3.js | |
 
 ### Productivity Tools
 
