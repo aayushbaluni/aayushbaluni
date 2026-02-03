@@ -92,8 +92,8 @@ I'm a **committed AI coder** passionate about developing programs that are fasci
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushbaluni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbaluni&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aayushbaluni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aayushbaluni&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
