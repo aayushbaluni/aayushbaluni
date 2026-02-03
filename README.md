@@ -89,19 +89,13 @@ I'm a **committed AI coder** passionate about developing programs that are fasci
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aayushbaluni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aayushbaluni&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushbaluni&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushbaluni&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
-
 ## Let's Connect!
 I'm always interested in collaborating on innovative AI projects and discussing technology. Feel free to reach out!
 
