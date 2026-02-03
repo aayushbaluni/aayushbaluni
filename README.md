@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI+%26+Full+Stack+Developer;Building+Intelligent+Solutions;Web3+%7C+AI+Agents+%7C+Automation)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=AI+%26+Full+Stack+Developer;Building+Intelligent+Solutions;Web3+%7C+AI+Agents+%7C+Automation)](https://git.io/typing-svg)
   
 </div>
 
@@ -67,7 +67,7 @@ I'm a **committed AI coder** passionate about developing programs that are fasci
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Sylvi AI** | First Solana AI monitoring agent with real-time Fact Engine for automated crypto market analysis. Integrated Twitter/X, Telegram, Discord scanning. | Solana, Python, AI/ML, Twitter API | [Sylvi-Framework](https://github.com/Sylvi-Framework) |
+| **Sylvi AI** | First Solana AI monitoring agent with real-time Fact Engine for automated crypto market analysis. Integrated Twitter/X, Telegram, Discord scanning. | Solana, Python, AI/ML, Twitter API | [Live](https://www.sylvi.live/) |
 | **Alpaco AI MCPs** | Comprehensive crypto info platform on Solana with AI-powered Safe Trading, Rug Checks (95% accuracy), Token Scores, and Bubble Maps. MCP Server for crypto analysis. | Solana, Next.js, AI | [Live](https://alpaco-henna.vercel.app) |
 | **AI Video Automation** | Fully automated YouTube Shorts generation - from text prompt to published video in minutes. AI Script Generation, TTS, Image Generation, and Auto Upload. | TypeScript, Next.js, Python, FFmpeg | [Repo](https://github.com/aayushbaluni/Video-Automation-Creation) |
 
@@ -93,9 +93,8 @@ I'm a **committed AI coder** passionate about developing programs that are fasci
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushbaluni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbaluni&layout=compact&langs_count=8&theme=tokyonight"/>
-  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushbaluni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbaluni&layout=compact&langs_count=8&theme=tokyonight)  
 </div>
 
 <div align="center">
