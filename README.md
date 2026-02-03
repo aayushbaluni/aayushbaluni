@@ -1,84 +1,129 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ayush Baluni! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Student Of Poornima College of Engineering ><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Hey, I'm Ayush Baluni! 
 
-[![Linkedin: ayush](https://img.shields.io/badge/-ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-baluni-1469a4241/)](https://www.linkedin.com/in/ayush-baluni-1469a4241/)
-![GitHub followers](https://img.shields.io/github/followers/aayushbaluni?label=Follow&style=social)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI+%26+Full+Stack+Developer;Building+Intelligent+Solutions;Web3+%7C+AI+Agents+%7C+Automation)](https://git.io/typing-svg)
+  
+</div>
 
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const ayush = {
-    pronouns: "He" | "Him",
-    code: ["C/C++", "Python", "Dart", "Qiskit"],
-    askMeAbout: ["Competitive Programming", "Tech", "App Dev", "Inovation"],
-    technologies: {
-        mobileApp: {
-            native: ["Android Development","Flutter"]
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: [ "MySql", ],
-        misc: ["Firebase", "Flask", "open-cv", "Computer Vision"]
-    },
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-baluni-1469a4241/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushbaluni)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushBalun16749)
+  
+</div>
 
 ---
-<!--START_SECTION:waka-->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+## About Me
 
+I'm a **committed AI coder** passionate about developing programs that are fascinating and genuinely useful. My focus is on building **wide-scope code applications** that are **optimal for productivity** and make a real impact.
 
-```text
-🌞 Morning        ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-🌆 Daytime        ██████████░░░░░░░░░░░░░░░   40.64% 
-🌃 Evening        ████████░░░░░░░░░░░░░░░░░   31.99% 
-🌙 Night          ███░░░░░░░░░░░░░░░░░░░░░░   14.34%
+- Currently working as **Software Developer at ShyftLabs**
+- **2x Hackathon Winner** (2024 & 2025)
+- Building AI-powered tools and Web3 solutions
+- **15+ Freelance Projects** delivered across Web2 & Web3
+- **1000+ Coding Problems** solved on competitive platforms
 
-```
-📅 **I'm Most Productive on Sunday** 
+---
 
-```text
-Monday            ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-Tuesday           ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Wednesday         ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Thursday          ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Friday            ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-Saturday          ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
-Sunday            █████░░░░░░░░░░░░░░░░░░░░   19.91%
+## Tech Stack
 
-```
+<div align="center">
 
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-📊 **This Week I Spent My Time On** 
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-```text
-⌚︎ Time Zone: Asia/Kolkata
+### AI & Web3
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
-💬 Programming Languages: 
-C++                            █████████████░░░░░░░░░░░░   45.17% 
-Python                         ██████░░░░░░░░░░░░░░░░░░░   27.29% 
-Dart                           ██████░░░░░░░░░░░░░░░░░░░   27.29%  
-Qiskit                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-🔥 Editors: 
-Sublime Text                   ████████████████░░░░░░░░░   65.87% 
-VS Code                        █████████░░░░░░░░░░░░░░░░   34.08% 
-Dev-C++                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+</div>
 
-💻 Operating System: 
-Ubunt                          █████████████████████████   100.0%
+---
 
-```
+## Featured Projects
 
+### AI & Automation
 
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Sylvi AI** | First Solana AI monitoring agent with real-time Fact Engine for automated crypto market analysis. Integrated Twitter/X, Telegram, Discord scanning. | Solana, Python, AI/ML, Twitter API | [Sylvi-Framework](https://github.com/Sylvi-Framework) |
+| **Alpaco AI MCPs** | Comprehensive crypto info platform on Solana with AI-powered Safe Trading, Rug Checks (95% accuracy), Token Scores, and Bubble Maps. MCP Server for crypto analysis. | Solana, Next.js, AI | [Live](https://alpaco-henna.vercel.app) |
+| **AI Video Automation** | Fully automated YouTube Shorts generation - from text prompt to published video in minutes. AI Script Generation, TTS, Image Generation, and Auto Upload. | TypeScript, Next.js, Python, FFmpeg | [Repo](https://github.com/aayushbaluni/Video-Automation-Creation) |
 
+### Web3 & DeFi
 
-<!--END_SECTION:waka-->
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AZURA Web3** | Web3 trading and crypto analytics platform | Next.js, Solana, TypeScript |
+| **Whale Aggregator DApp** | DeFi aggregator for whale tracking | React, Web3.js, Solana |
+| **Web3 TODO App** | Decentralized task management on blockchain | Solidity, Web3.js |
+
+### Productivity Tools
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **CP Visualizer** | Coding platform analytics dashboard integrating LeetCode, CodeForces, and GitHub APIs | React, APIs |
+| **AI Doctor** | AI-powered medical consultation chatbot using NLP | Python, ML, NLP |
+| **Text To Video** | Video generation application with 25% improved rendering speed | Flutter, Python, Flask |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushbaluni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbaluni&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aayushbaluni&theme=tokyonight)](https://git.io/streak-stats)
+  
+</div>
+
+---
+
+## Let's Connect!
+
+I'm always interested in collaborating on innovative AI projects and discussing technology. Feel free to reach out!
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abaluni6@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-baluni-1469a4241/)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushBalun16749)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aayushbaluni.aayushbaluni)
+  
+  *"Code is like humor. When you have to explain it, it's bad."*
+  
+</div>
