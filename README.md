@@ -91,22 +91,18 @@ I'm a **committed AI coder** passionate about developing programs that are fasci
 
 ## GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushbaluni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbaluni&layout=compact&langs_count=8&theme=tokyonight)  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushbaluni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbaluni&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aayushbaluni&theme=tokyonight)](https://git.io/streak-stats)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushbaluni&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## Let's Connect!
-
 I'm always interested in collaborating on innovative AI projects and discussing technology. Feel free to reach out!
 
 <div align="center">
