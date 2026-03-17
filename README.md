@@ -115,14 +115,11 @@
 ## Open Source Contributions
 
 <!-- CONTRIBUTIONS:START -->
-Merged PRs across **4 open-source repositories** — **5 contributions** and counting.
+Merged PRs across **1 open-source repositories** — **1 contributions** and counting.
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 50.8k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
-| [**cp-api**](https://github.com/Vivek1898/cp-api) | ⭐ 11 | 1 | [#4](https://github.com/Vivek1898/cp-api/pull/4) — Added About Us Page and Footer Content. |
-| [**backend-social-auth-role-based**](https://github.com/Vivek1898/backend-social-auth-role-based) | ⭐ 0 | 1 | [#1](https://github.com/Vivek1898/backend-social-auth-role-based/pull/1) — adding telegram auth |
-| [**Movie-Recommendation-system**](https://github.com/AyushChabbra/Movie-Recommendation-system) | ⭐ 0 | 2 | [#2](https://github.com/AyushChabbra/Movie-Recommendation-system/pull/2) — Update README.md |
 <!-- CONTRIBUTIONS:END -->
 
 ---
