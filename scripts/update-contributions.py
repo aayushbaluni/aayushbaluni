@@ -15,6 +15,7 @@ README_PATH = os.path.join(os.path.dirname(__file__), "..", "README.md")
 START_MARKER = "<!-- CONTRIBUTIONS:START -->"
 END_MARKER = "<!-- CONTRIBUTIONS:END -->"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
+MIN_STARS = 100
 
 
 def github_api(url: str) -> tuple[list | dict, dict]:
@@ -87,11 +88,15 @@ def build_section(prs: list[dict]) -> str:
     repos_with_stars = []
     for repo, repo_prs in repo_groups.items():
         stars = get_repo_stars(repo)
-        repos_with_stars.append((repo, repo_prs, stars))
+        if stars >= MIN_STARS:
+            repos_with_stars.append((repo, repo_prs, stars))
     repos_with_stars.sort(key=lambda x: x[2], reverse=True)
 
+    if not repos_with_stars:
+        return "_No merged PRs in repos with 100+ stars yet. Check back soon!_"
+
     lines = []
-    total_prs = len(prs)
+    total_prs = sum(len(rp) for _, rp, _ in repos_with_stars)
     total_repos = len(repos_with_stars)
     lines.append(
         f"Merged PRs across **{total_repos} open-source repositories** "
