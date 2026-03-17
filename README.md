@@ -1,30 +1,96 @@
-# Hey, I'm Ayush Baluni! 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Ayush%20Baluni&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Agents%20%C2%B7%20Web3%20%C2%B7%20Full%20Stack&descSize=18&descAlignY=55&descAlign=50)
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=AI+%26+Full+Stack+Developer;Building+Intelligent+Solutions;Web3+%7C+AI+Agents+%7C+Automation)](https://git.io/typing-svg)
-  
-</div>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-baluni-1469a4241/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushbaluni)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushBalun16749)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=500&height=50&lines=AI+agents+by+day.+Web3+by+night.;Hackathons+on+weekends.;Ship+first.+Optimize+later.)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-baluni-1469a4241/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/aayushbaluni)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AyushBalun16749)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abaluni6@gmail.com)
+
 </div>
 
 ---
 
-## About Me
+### 🚀 Ship Log
 
-I'm a **committed AI coder** passionate about developing programs that are fascinating and genuinely useful. My focus is on building **wide-scope code applications** that are **optimal for productivity** and make a real impact.
+```
+🟢 LIVE    Sylvi AI — First Solana AI monitoring agent
+🟢 LIVE    Alpaco AI — Crypto safety platform, 95% rug-check accuracy
+🔧 BUILD   Scaling fact engines & agentic automation
+📚 LEARN   Rust systems programming, advanced LLM orchestration
+```
 
-- Currently working as **Software Developer at ShyftLabs**
-- **2x Hackathon Winner** (2024 & 2025)
-- Building AI-powered tools and Web3 solutions
-- **15+ Freelance Projects** delivered across Web2 & Web3
-- **1000+ Coding Problems** solved on competitive platforms
+---
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  SYSTEM PROMPT: ayush_baluni                                 │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  You are Ayush Baluni, a Software Developer at ShyftLabs.    │
+│                                                              │
+│  CONTEXT:                                                    │
+│  - Builds AI agents, Web3 platforms, automated pipelines     │
+│  - Stack: TypeScript, Python, Rust, Solana, React, NestJS    │
+│  - 2x hackathon winner · 15+ shipped projects · 1000+ DSA   │
+│                                                              │
+│  CAPABILITIES:                                               │
+│  [AGENT]  Real-time crypto monitoring — Sylvi AI             │
+│  [WEB3]   Trading analytics, rug checks @ 95% accuracy      │
+│  [AUTO]   Text → YouTube pipeline, zero manual editing       │
+│  [STACK]  Full stack apps across 15+ freelance clients       │
+│                                                              │
+│  TRAINING DATA: 1000+ problems · LeetCode · CodeForces      │
+│                                                              │
+│  OBJECTIVE: Ship production code. No pseudo-code. No TODOs.  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Featured Projects
+
+> ### [Sylvi AI](https://www.sylvi.live/) &nbsp; `LIVE`
+> First Solana AI monitoring agent with a real-time **Fact Engine** — autonomously scans Twitter/X, Telegram & Discord for crypto market signals.
+>
+> `Solana` `Python` `AI/ML` `Twitter API`
+
+> ### [Alpaco AI MCPs](https://alpaco-henna.vercel.app) &nbsp; `LIVE`
+> Crypto analysis platform: **AI Safe Trading**, Rug Checks at **95% accuracy**, Token Scores, Bubble Maps. Full MCP server for crypto intelligence.
+>
+> `Solana` `Next.js` `AI`
+
+> ### [AI Video Automation](https://github.com/aayushbaluni/Video-Automation-Creation) &nbsp; `REPO`
+> End-to-end YouTube Shorts pipeline — AI script generation, TTS, image gen, auto-upload. **Zero manual editing.**
+>
+> `TypeScript` `Next.js` `Python` `FFmpeg`
+
+<details>
+<summary><b>Web3 & DeFi</b></summary>
+<br>
+
+| Project | What it does | Tech |
+|---------|--------------|------|
+| [**AZURA Web3**](https://www.azuraos.fun/) | Web3 trading and crypto analytics platform on Solana | Next.js, Solana, TypeScript |
+| **Whale Aggregator DApp** | DeFi aggregator for real-time whale activity tracking | React, Web3.js, Solana |
+| **Web3 TODO App** | Decentralized task management with smart contracts | Solidity, Web3.js |
+
+</details>
+
+<details>
+<summary><b>Productivity & Tools</b></summary>
+<br>
+
+| Project | What it does | Tech |
+|---------|--------------|------|
+| **CP Visualizer** | Unified coding analytics — LeetCode, CodeForces & GitHub in one dashboard | React, APIs |
+| **AI Doctor** | AI-powered medical consultation chatbot using NLP | Python, ML, NLP |
+| **Text To Video** | Video generation from text with ~25% faster rendering | Flutter, Python, Flask |
+
+</details>
 
 ---
 
@@ -32,87 +98,71 @@ I'm a **committed AI coder** passionate about developing programs that are fasci
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### AI & Web3
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=ts,js,py,rust,dart,react,nextjs,flutter,nodejs,nestjs,solidity,postgresql,mongodb,firebase,docker,aws,git&perline=9" alt="Tech Stack" />
 
 </div>
 
+<br>
+
+**Core** &nbsp; `TypeScript` `Python` `Rust` `Solana` `React` `Next.js` `NestJS`
+
+**Also** &nbsp; `Flutter` `Dart` `Flask` `Solidity` `Web3.js` `OpenAI` `NLP` `FFmpeg`
+
+**Infra** &nbsp; `PostgreSQL` `MongoDB` `Firebase` `Docker` `AWS` `CI/CD`
+
 ---
 
-## Featured Projects
+## Achievements
 
-### AI & Automation
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Sylvi AI** | First Solana AI monitoring agent with real-time Fact Engine for automated crypto market analysis. Integrated Twitter/X, Telegram, Discord scanning. | Solana, Python, AI/ML, Twitter API | [Live](https://www.sylvi.live/) |
-| **Alpaco AI MCPs** | Comprehensive crypto info platform on Solana with AI-powered Safe Trading, Rug Checks (95% accuracy), Token Scores, and Bubble Maps. MCP Server for crypto analysis. | Solana, Next.js, AI | [Live](https://alpaco-henna.vercel.app) |
-| **AI Video Automation** | Fully automated YouTube Shorts generation - from text prompt to published video in minutes. AI Script Generation, TTS, Image Generation, and Auto Upload. | TypeScript, Next.js, Python, FFmpeg | [Repo](https://github.com/aayushbaluni/Video-Automation-Creation) |
-
-### Web3 & DeFi
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **AZURA Web3** | Web3 trading and crypto analytics platform | Next.js, Solana, TypeScript | [Live](https://www.azuraos.fun/) |
-| **Whale Aggregator DApp** | DeFi aggregator for whale tracking | React, Web3.js, Solana | |
-| **Web3 TODO App** | Decentralized task management on blockchain | Solidity, Web3.js | |
-
-### Productivity Tools
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **CP Visualizer** | Coding platform analytics dashboard integrating LeetCode, CodeForces, and GitHub APIs | React, APIs |
-| **AI Doctor** | AI-powered medical consultation chatbot using NLP | Python, ML, NLP |
-| **Text To Video** | Video generation application with 25% improved rendering speed | Flutter, Python, Flask |
+```
+🔓 HACKATHON_CHAMPION      2x Winner — ShyftLabs 2024 & 2025
+🔓 FREELANCE_SHIPPER       15+ projects delivered across Web2 & Web3
+🔓 PROBLEM_CRUSHER         1000+ solved on LeetCode, CodeForces & more
+🔓 AI_AGENT_ARCHITECT      Production monitoring agents live on Solana
+🔓 RUG_CHECK_MASTER        95% accuracy — Alpaco AI crypto safety
+```
 
 ---
 
 ## GitHub Activity
 
+<div align="center">
+
+<a href="https://github.com/aayushbaluni">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushbaluni&theme=tokyonight" width="100%" />
+</a>
+
+<a href="https://github.com/aayushbaluni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushbaluni&theme=tokyonight&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/aayushbaluni">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=aayushbaluni&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushbaluni&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
----
-## Let's Connect!
-I'm always interested in collaborating on innovative AI projects and discussing technology. Feel free to reach out!
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abaluni6@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-baluni-1469a4241/)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushBalun16749)
-  
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushbaluni/aayushbaluni/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayushbaluni/aayushbaluni/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/aayushbaluni/aayushbaluni/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 <div align="center">
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aayushbaluni.aayushbaluni)
-  
-  *"Code is like humor. When you have to explain it, it's bad."*
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=aayushbaluni&label=Profile%20Views&color=6366F1&style=flat-square)
+
+**`$ connect ayush`** — AI · Web3 · Full Stack · Let's build something.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abaluni6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-baluni-1469a4241/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AyushBalun16749)
+
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer)
