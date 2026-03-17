@@ -133,6 +133,20 @@
 </a>
 
 <a href="https://github.com/aayushbaluni">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayushbaluni&theme=tokyonight" />
+</a>
+<a href="https://github.com/aayushbaluni">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayushbaluni&theme=tokyonight&utcOffset=5.5" />
+</a>
+
+<a href="https://github.com/aayushbaluni">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushbaluni&theme=tokyonight" />
+</a>
+<a href="https://github.com/aayushbaluni">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushbaluni&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/aayushbaluni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushbaluni&theme=tokyonight&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/aayushbaluni">
