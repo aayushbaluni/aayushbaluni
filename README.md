@@ -119,7 +119,7 @@ Merged PRs across **1 open-source repositories** — **1 contributions** and cou
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 50.8k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
+| [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 50.9k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 <!-- CONTRIBUTIONS:END -->
 
 ---
