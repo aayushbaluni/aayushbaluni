@@ -115,11 +115,12 @@
 ## Open Source Contributions
 
 <!-- CONTRIBUTIONS:START -->
-Merged PRs across **1 open-source repositories** — **1 contributions** and counting.
+Merged PRs across **2 open-source repositories** — **2 contributions** and counting.
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 50.9k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
+| [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.5k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
 <!-- CONTRIBUTIONS:END -->
 
 ---
