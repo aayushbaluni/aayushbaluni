@@ -119,7 +119,7 @@ Merged PRs across **4 open-source repositories** — **4 contributions** and cou
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 51.0k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
+| [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 51.1k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.5k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.4k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
 | [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.1k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
