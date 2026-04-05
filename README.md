@@ -17,8 +17,8 @@ My stack lives at the intersection of AI infra, Solana, and full-stack engineeri
 - **[Sylvi AI](https://www.sylvi.live/)** — First Solana AI monitoring agent. Real-time Fact Engine that autonomously scans Twitter/X, Telegram & Discord for crypto market signals. `Solana` `Python` `AI/ML`
 - **[Alpaco AI](https://alpaco-henna.vercel.app/)** — Crypto safety platform with AI rug-checks at 95% accuracy, Token Scores, Bubble Maps, and a full MCP server for crypto intelligence. `Next.js` `Solana` `AI`
 - **[AI Video Automation](https://github.com/aayushbaluni/Video-Automation-Creation)** — End-to-end YouTube Shorts pipeline: AI script → TTS → image gen → auto-upload. Zero manual editing. `TypeScript` `Python` `FFmpeg`
-- **[contribos](https://github.com/aayushbaluni/contribos)** — Open-source contribution tracking & discovery tool. `TypeScript`
-- **[agent-vault-control-panel](https://github.com/aayushbaluni/agent-vault-control-panel)** — Control panel for managing AI agent vaults. `Rust`
+- **[contribos](https://github.com/aayushbaluni/contribos)** — CLI tool that maps your open-source footprint — finds repos you've touched, PRs you've merged, and projects worth contributing to next. `TypeScript`
+- **[agent-vault-control-panel](https://github.com/aayushbaluni/agent-vault-control-panel)** — Low-level Rust control plane for managing AI agent vaults — access policies, secret rotation, and runtime isolation for autonomous agents. `Rust`
 
 ---
 
@@ -62,12 +62,16 @@ Merged PRs across **5 repositories** — from AI frameworks to Ethereum infra:
 
 ---
 
-## GitHub Activity
+```
+consistency >> perfection
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayushbaluni&theme=tokyo-night&hide_border=true)](https://github.com/aayushbaluni)
+every repo started ugly. every agent broke in prod.
+every PR got review comments. shipped anyway.
+iterated. got better. repeat.
 
----
-
-> *Consistency >> perfection. Ship it, then improve it.*
+the diff between mediocre and good isn't talent —
+it's the number of times you pushed past 'good enough'
+and opened a new branch.
+```
 
 **[abaluni6@gmail.com](mailto:abaluni6@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/ayush-baluni-1469a4241/)** · **[X @AyushBalun16749](https://x.com/AyushBalun16749)**
