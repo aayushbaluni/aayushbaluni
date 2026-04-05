@@ -6,7 +6,7 @@
 
 ---
 
-I write code that talks to blockchains, spins up AI agents, and catches rug pulls before they happen. Currently a Software Engineer at [ShyftLabs](https://shyftlabs.io), where I build things that ship to production — not just demos.
+I write code that talks to blockchains, spins up AI agents, and automates things that shouldn't need a human in the loop. Currently a Software Engineer at [ShyftLabs](https://shyftlabs.io), where I build things that ship to production — not just demos.
 
 My stack lives at the intersection of AI infra, Solana, and full-stack engineering. I've shipped 15+ projects, won 2 internal hackathons, and contributed fixes to repos like Flowise, Reth, and Haystack. Most of my best commits happen after midnight.
 
@@ -14,8 +14,6 @@ My stack lives at the intersection of AI infra, Solana, and full-stack engineeri
 
 ## What I'm building
 
-- **[Sylvi AI](https://www.sylvi.live/)** — First Solana AI monitoring agent. Real-time Fact Engine that autonomously scans Twitter/X, Telegram & Discord for crypto market signals. `Solana` `Python` `AI/ML`
-- **[Alpaco AI](https://alpaco-henna.vercel.app/)** — Crypto safety platform with AI rug-checks at 95% accuracy, Token Scores, Bubble Maps, and a full MCP server for crypto intelligence. `Next.js` `Solana` `AI`
 - **[AI Video Automation](https://github.com/aayushbaluni/Video-Automation-Creation)** — End-to-end YouTube Shorts pipeline: AI script → TTS → image gen → auto-upload. Zero manual editing. `TypeScript` `Python` `FFmpeg`
 - **[contribos](https://github.com/aayushbaluni/contribos)** — CLI tool that maps your open-source footprint — finds repos you've touched, PRs you've merged, and projects worth contributing to next. `TypeScript`
 - **[agent-vault-control-panel](https://github.com/aayushbaluni/agent-vault-control-panel)** — Low-level Rust control plane for managing AI agent vaults — access policies, secret rotation, and runtime isolation for autonomous agents. `Rust`
