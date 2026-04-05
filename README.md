@@ -14,9 +14,9 @@ My stack lives at the intersection of AI infra, Solana, and full-stack engineeri
 
 ## What I'm building
 
-- **[AI Video Automation](https://github.com/aayushbaluni/Video-Automation-Creation)** — End-to-end YouTube Shorts pipeline: AI script → TTS → image gen → auto-upload. Zero manual editing. `TypeScript` `Python` `FFmpeg`
-- **[contribos](https://github.com/aayushbaluni/contribos)** — CLI tool that maps your open-source footprint — finds repos you've touched, PRs you've merged, and projects worth contributing to next. `TypeScript`
-- **[agent-vault-control-panel](https://github.com/aayushbaluni/agent-vault-control-panel)** — Low-level Rust control plane for managing AI agent vaults — access policies, secret rotation, and runtime isolation for autonomous agents. `Rust`
+- **[Prompt To Video](https://github.com/aayushbaluni/Video-Automation-Creation)** — End-to-end YouTube Shorts pipeline: AI script → TTS → image gen → auto-upload. Zero manual editing. `TypeScript` `Python` `FFmpeg`
+- **[Contrib Os](https://github.com/aayushbaluni/contribos)** — CLI tool that maps your open-source footprint — finds repos you've touched, PRs you've merged, and projects worth contributing to next. `TypeScript`
+- **[Agent Vault - The Firewall You Need](https://github.com/aayushbaluni/agent-vault-control-panel)** — Low-level Rust control plane for managing AI agent vaults — access policies, secret rotation, and runtime isolation for autonomous agents. `Rust`
 
 ---
 
