@@ -1,198 +1,73 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Ayush%20Baluni&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Agents%20%C2%B7%20Web3%20%C2%B7%20Full%20Stack&descSize=18&descAlignY=55&descAlign=50)
+# Ayush Baluni
 
-<div align="center">
+**Software Engineer** · Building AI agents & Web3 infra from Delhi, India · Shipping in public
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=500&height=50&lines=AI+agents+by+day.+Web3+by+night.;Hackathons+on+weekends.;Ship+first.+Optimize+later.)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-baluni-1469a4241/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/aayushbaluni)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AyushBalun16749)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abaluni6@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-baluni-1469a4241/) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AyushBalun16749) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/aayushbaluni) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abaluni6@gmail.com)
 
 ---
 
-### 🚀 Ship Log
+I write code that talks to blockchains, spins up AI agents, and catches rug pulls before they happen. Currently a Software Engineer at [ShyftLabs](https://shyftlabs.io), where I build things that ship to production — not just demos.
 
-```
-🟢 LIVE    Sylvi AI — First Solana AI monitoring agent
-🟢 LIVE    Alpaco AI — Crypto safety platform, 95% rug-check accuracy
-🔧 BUILD   Scaling fact engines & agentic automation
-📚 LEARN   Rust systems programming, advanced LLM orchestration
-```
+My stack lives at the intersection of AI infra, Solana, and full-stack engineering. I've shipped 15+ projects, won 2 internal hackathons, and contributed fixes to repos like Flowise, Reth, and Haystack. Most of my best commits happen after midnight.
 
 ---
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM PROMPT: ayush_baluni                                 │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  You are Ayush Baluni, a Software Developer at ShyftLabs.    │
-│                                                              │
-│  CONTEXT:                                                    │
-│  - Builds AI agents, Web3 platforms, automated pipelines     │
-│  - Stack: TypeScript, Python, Rust, Solana, React, NestJS    │
-│  - 2x hackathon winner · 15+ shipped projects · 1000+ DSA   │
-│                                                              │
-│  CAPABILITIES:                                               │
-│  [AGENT]  Real-time crypto monitoring — Sylvi AI             │
-│  [WEB3]   Trading analytics, rug checks @ 95% accuracy      │
-│  [AUTO]   Text → YouTube pipeline, zero manual editing       │
-│  [STACK]  Full stack apps across 15+ freelance clients       │
-│                                                              │
-│  TRAINING DATA: 1000+ problems · LeetCode · CodeForces      │
-│                                                              │
-│  OBJECTIVE: Ship production code. No pseudo-code. No TODOs.  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+## What I'm building
+
+- **[Sylvi AI](https://www.sylvi.live/)** — First Solana AI monitoring agent. Real-time Fact Engine that autonomously scans Twitter/X, Telegram & Discord for crypto market signals. `Solana` `Python` `AI/ML`
+- **[Alpaco AI](https://alpaco-henna.vercel.app/)** — Crypto safety platform with AI rug-checks at 95% accuracy, Token Scores, Bubble Maps, and a full MCP server for crypto intelligence. `Next.js` `Solana` `AI`
+- **[AI Video Automation](https://github.com/aayushbaluni/Video-Automation-Creation)** — End-to-end YouTube Shorts pipeline: AI script → TTS → image gen → auto-upload. Zero manual editing. `TypeScript` `Python` `FFmpeg`
+- **[contribos](https://github.com/aayushbaluni/contribos)** — Open-source contribution tracking & discovery tool. `TypeScript`
+- **[agent-vault-control-panel](https://github.com/aayushbaluni/agent-vault-control-panel)** — Control panel for managing AI agent vaults. `Rust`
 
 ---
 
-## Featured Projects
+## What I'm doing right now
 
-> ### [Sylvi AI](https://www.sylvi.live/) &nbsp; `LIVE`
-> First Solana AI monitoring agent with a real-time **Fact Engine** — autonomously scans Twitter/X, Telegram & Discord for crypto market signals.
->
-> `Solana` `Python` `AI/ML` `Twitter API`
-
-> ### [Alpaco AI MCPs](https://alpaco-henna.vercel.app) &nbsp; `LIVE`
-> Crypto analysis platform: **AI Safe Trading**, Rug Checks at **95% accuracy**, Token Scores, Bubble Maps. Full MCP server for crypto intelligence.
->
-> `Solana` `Next.js` `AI`
-
-> ### [AI Video Automation](https://github.com/aayushbaluni/Video-Automation-Creation) &nbsp; `REPO`
-> End-to-end YouTube Shorts pipeline — AI script generation, TTS, image gen, auto-upload. **Zero manual editing.**
->
-> `TypeScript` `Next.js` `Python` `FFmpeg`
-
-<details>
-<summary><b>Web3 & DeFi</b></summary>
-<br>
-
-| Project | What it does | Tech |
-|---------|--------------|------|
-| [**AZURA Web3**](https://www.azuraos.fun/) | Web3 trading and crypto analytics platform on Solana | Next.js, Solana, TypeScript |
-| **Whale Aggregator DApp** | DeFi aggregator for real-time whale activity tracking | React, Web3.js, Solana |
-| **Web3 TODO App** | Decentralized task management with smart contracts | Solidity, Web3.js |
-
-</details>
-
-<details>
-<summary><b>Productivity & Tools</b></summary>
-<br>
-
-| Project | What it does | Tech |
-|---------|--------------|------|
-| **CP Visualizer** | Unified coding analytics — LeetCode, CodeForces & GitHub in one dashboard | React, APIs |
-| **AI Doctor** | AI-powered medical consultation chatbot using NLP | Python, ML, NLP |
-| **Text To Video** | Video generation from text with ~25% faster rendering | Flutter, Python, Flask |
-
-</details>
+- Actively looking for full-time roles and collaborations in AI infra, agent systems, and Web3 products — if you're building something real, let's talk
+- Deep in Rust systems programming and advanced LLM orchestration patterns
+- Scaling agentic fact engines for real-time on-chain intelligence
+- Open to consulting on AI agents, crypto safety tooling, and MCP integrations
 
 ---
 
-## Tech Stack
+## Open Source
 
-<div align="center">
+Merged PRs across **5 repositories** — from AI frameworks to Ethereum infra:
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,rust,dart,react,nextjs,flutter,nodejs,nestjs,solidity,postgresql,mongodb,firebase,docker,aws,git&perline=9" alt="Tech Stack" />
-
-</div>
-
-<br>
-
-**Core** &nbsp; `TypeScript` `Python` `Rust` `Solana` `React` `Next.js` `NestJS`
-
-**Also** &nbsp; `Flutter` `Dart` `Flask` `Solidity` `Web3.js` `OpenAI` `NLP` `FFmpeg`
-
-**Infra** &nbsp; `PostgreSQL` `MongoDB` `Firebase` `Docker` `AWS` `CI/CD`
+| Repository | Stars | Contribution |
+|---|---|---|
+| [Flowise](https://github.com/FlowiseAI/Flowise) | ⭐ 51.6k | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — migrate Weaviate to weaviate-client v3 |
+| [Haystack](https://github.com/deepset-ai/haystack) | ⭐ 24.7k | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — fix OpenAPIServiceConnector docs |
+| [Reth](https://github.com/paradigmxyz/reth) | ⭐ 5.5k | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — disable Discv5 ENR auto-update for NAT |
+| [supabase-js](https://github.com/supabase/supabase-js) | ⭐ 4.4k | [#2175](https://github.com/supabase/supabase-js/pull/2175) — type safety for eq() and neq() |
+| [graph-node](https://github.com/graphprotocol/graph-node) | ⭐ 3.1k | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix IPC URI file path extraction |
 
 ---
 
-## Open Source Contributions
+## Stack
 
-<!-- CONTRIBUTIONS:START -->
-Merged PRs across **5 open-source repositories** — **5 contributions** and counting.
-
-| Repository | Stars | PRs | Recent Contribution |
-|------------|-------|-----|---------------------|
-| [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 51.6k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
-| [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 24.7k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
-| [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.5k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
-| [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.4k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
-| [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.1k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
-<!-- CONTRIBUTIONS:END -->
+`TypeScript` `Python` `Rust` `Solana` `React` `Next.js` `NestJS` `Solidity` `Web3.js` `OpenAI` `Docker` `PostgreSQL` `MongoDB` `AWS`
 
 ---
 
-## Achievements
+## A few things about me
 
-```
-🔓 HACKATHON_CHAMPION      2x Winner — ShyftLabs 2024 & 2025
-🔓 FREELANCE_SHIPPER       15+ projects delivered across Web2 & Web3
-🔓 PROBLEM_CRUSHER         1000+ solved on LeetCode, CodeForces & more
-🔓 AI_AGENT_ARCHITECT      Production monitoring agents live on Solana
-🔓 RUG_CHECK_MASTER        95% accuracy — Alpaco AI crypto safety
-```
+- Solana maxi who still reads Ethereum research papers and Rust source code for fun on weekends
+- Hackathon addict — 2x winner, and already scoping the next one
+- Most productive between midnight and 3am; the best commits have timestamps to prove it
+- Currently teaching myself low-level Rust — not because I have to, because I want to understand what's actually happening under the hood
+- Grew up between the Dehradun hills and a terminal; now building AI and Web3 products from Delhi
+- 1000+ DSA problems solved — LeetCode, Codeforces — still going
 
 ---
 
 ## GitHub Activity
 
-<div align="center">
-
-<a href="https://github.com/aayushbaluni">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushbaluni&theme=tokyonight" width="100%" />
-</a>
-
-<a href="https://github.com/aayushbaluni">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayushbaluni&theme=tokyonight" />
-</a>
-<a href="https://github.com/aayushbaluni">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayushbaluni&theme=tokyonight&utcOffset=5.5" />
-</a>
-
-<a href="https://github.com/aayushbaluni">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushbaluni&theme=tokyonight" />
-</a>
-<a href="https://github.com/aayushbaluni">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushbaluni&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/aayushbaluni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushbaluni&theme=tokyonight&show_icons=true&hide_border=true" />
-</a>
-<a href="https://github.com/aayushbaluni">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=aayushbaluni&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushbaluni&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushbaluni/aayushbaluni/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayushbaluni/aayushbaluni/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/aayushbaluni/aayushbaluni/output/github-contribution-grid-snake.svg" />
-</picture>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayushbaluni&theme=tokyo-night&hide_border=true)](https://github.com/aayushbaluni)
 
 ---
 
-<div align="center">
+> *Consistency >> perfection. Ship it, then improve it.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=aayushbaluni&label=Profile%20Views&color=6366F1&style=flat-square)
-
-**`$ connect ayush`** — AI · Web3 · Full Stack · Let's build something.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abaluni6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-baluni-1469a4241/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AyushBalun16749)
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer)
+**[abaluni6@gmail.com](mailto:abaluni6@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/ayush-baluni-1469a4241/)** · **[X @AyushBalun16749](https://x.com/AyushBalun16749)**
