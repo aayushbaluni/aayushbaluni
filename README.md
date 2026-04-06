@@ -22,7 +22,7 @@ My stack lives at the intersection of AI infra, Solana, and full-stack engineeri
 
 ## What I'm doing right now
 
-- Actively looking for full-time roles and collaborations in AI infra, agent systems, and Web3 products — if you're building something real, let's talk
+- Actively looking for collaborations in AI infra, agent systems, and Web3 products — if you're building something real, let's talk
 - Deep in Rust systems programming and advanced LLM orchestration patterns
 - Scaling agentic fact engines for real-time on-chain intelligence
 - Open to consulting on AI agents, crypto safety tooling, and MCP integrations
