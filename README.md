@@ -1,6 +1,6 @@
 # Ayush Baluni
 
-**Software Engineer** · Building AI agents & Web3 infra from Banglore, India · Shipping in public
+**Software Engineer** · Building AI agents & Web3 infra from Bangalore, India · Shipping in public
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-baluni-1469a4241/) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AyushBalun16749) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/aayushbaluni) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abaluni6@gmail.com)
 
@@ -55,7 +55,7 @@ Merged PRs across **5 repositories** — from AI frameworks to Ethereum infra:
 - Hackathon addict — 2x winner, and already scoping the next one
 - Most productive between midnight and 3am; the best commits have timestamps to prove it
 - Currently teaching myself low-level Rust — not because I have to, because I want to understand what's actually happening under the hood
-- Grew up between the Dehradun hills and a terminal; now building AI and Web3 products from Banglore
+- Grew up between the Dehradun hills and a terminal; now building AI and Web3 products from Bangalore
 - 1000+ DSA problems solved — LeetCode, Codeforces — still going
 
 ---
