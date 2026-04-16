@@ -32,15 +32,16 @@ My stack lives at the intersection of AI infra, Solana, and full-stack engineeri
 ## Open Source
 
 <!-- CONTRIBUTIONS:START -->
-Merged PRs across **5 repositories** — from AI frameworks to Ethereum infra:
+Merged PRs across **6 open-source repositories** — **6 contributions** and counting.
 
-| Repository | Stars | Contribution |
-|---|---|---|
-| [Flowise](https://github.com/FlowiseAI/Flowise) | ⭐ 51.6k | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — migrate Weaviate to weaviate-client v3 |
-| [Haystack](https://github.com/deepset-ai/haystack) | ⭐ 24.7k | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — fix OpenAPIServiceConnector docs |
-| [Reth](https://github.com/paradigmxyz/reth) | ⭐ 5.5k | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — disable Discv5 ENR auto-update for NAT |
-| [supabase-js](https://github.com/supabase/supabase-js) | ⭐ 4.4k | [#2175](https://github.com/supabase/supabase-js/pull/2175) — type safety for eq() and neq() |
-| [graph-node](https://github.com/graphprotocol/graph-node) | ⭐ 3.1k | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix IPC URI file path extraction |
+| Repository | Stars | PRs | Recent Contribution |
+|------------|-------|-----|---------------------|
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 138.0k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 52.0k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
+| [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 24.9k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
+| [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.5k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
+| [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.4k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
+| [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.1k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
 <!-- CONTRIBUTIONS:END -->
 
 ---
