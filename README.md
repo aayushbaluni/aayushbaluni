@@ -31,6 +31,7 @@ My stack lives at the intersection of AI infra, Solana, and full-stack engineeri
 
 ## Open Source
 
+<!-- CONTRIBUTIONS:START -->
 Merged PRs across **5 repositories** — from AI frameworks to Ethereum infra:
 
 | Repository | Stars | Contribution |
@@ -40,6 +41,7 @@ Merged PRs across **5 repositories** — from AI frameworks to Ethereum infra:
 | [Reth](https://github.com/paradigmxyz/reth) | ⭐ 5.5k | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — disable Discv5 ENR auto-update for NAT |
 | [supabase-js](https://github.com/supabase/supabase-js) | ⭐ 4.4k | [#2175](https://github.com/supabase/supabase-js/pull/2175) — type safety for eq() and neq() |
 | [graph-node](https://github.com/graphprotocol/graph-node) | ⭐ 3.1k | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix IPC URI file path extraction |
+<!-- CONTRIBUTIONS:END -->
 
 ---
 
