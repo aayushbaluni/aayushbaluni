@@ -32,12 +32,13 @@ My stack lives at the intersection of AI infra, Solana, and full-stack engineeri
 ## Open Source
 
 <!-- CONTRIBUTIONS:START -->
-Merged PRs across **7 open-source repositories** — **7 contributions** and counting.
+Merged PRs across **8 open-source repositories** — **8 contributions** and counting.
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**dify**](https://github.com/langgenius/dify) | ⭐ 139.9k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 140.0k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 52.5k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
+| [**medusa**](https://github.com/medusajs/medusa) | ⭐ 32.9k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
 | [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 25.1k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
 | [**effect**](https://github.com/Effect-TS/effect) | ⭐ 14.0k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.6k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
