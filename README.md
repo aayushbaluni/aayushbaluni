@@ -36,8 +36,8 @@ Merged PRs across **10 open-source repositories** — **10 contributions** and c
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**dify**](https://github.com/langgenius/dify) | ⭐ 140.1k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
-| [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 52.5k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 140.2k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 52.6k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 45.5k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 32.9k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
 | [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 25.1k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
