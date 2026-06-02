@@ -36,7 +36,7 @@ Merged PRs across **13 open-source repositories** — **13 contributions** and c
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 149.0k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
+| [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 149.1k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
 | [**dify**](https://github.com/langgenius/dify) | ⭐ 143.5k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 53.3k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 48.9k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
