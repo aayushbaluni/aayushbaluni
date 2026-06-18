@@ -40,8 +40,8 @@ Merged PRs across **15 open-source repositories** — **15 contributions** and c
 | [**dify**](https://github.com/langgenius/dify) | ⭐ 145.6k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
 | [**grafana**](https://github.com/grafana/grafana) | ⭐ 74.5k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 53.7k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
-| [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 50.2k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
-| [**agno**](https://github.com/agno-agi/agno) | ⭐ 40.7k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
+| [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 50.3k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
+| [**agno**](https://github.com/agno-agi/agno) | ⭐ 40.8k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
 | [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 35.5k | 1 | [#11425](https://github.com/pnpm/pnpm/pull/11425) — fix(version): honor workspace selection for recursive ver... |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 34.4k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
 | [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 25.6k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
