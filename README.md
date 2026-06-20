@@ -36,17 +36,17 @@ Merged PRs across **15 open-source repositories** — **15 contributions** and c
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 149.8k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
-| [**dify**](https://github.com/langgenius/dify) | ⭐ 145.8k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 149.9k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 145.9k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
 | [**grafana**](https://github.com/grafana/grafana) | ⭐ 74.5k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 53.7k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 50.6k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**agno**](https://github.com/agno-agi/agno) | ⭐ 40.8k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
-| [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 35.6k | 1 | [#11425](https://github.com/pnpm/pnpm/pull/11425) — fix(version): honor workspace selection for recursive ver... |
+| [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 35.5k | 1 | [#11425](https://github.com/pnpm/pnpm/pull/11425) — fix(version): honor workspace selection for recursive ver... |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 34.5k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
 | [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 25.6k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
 | [**windmill**](https://github.com/windmill-labs/windmill) | ⭐ 16.8k | 1 | [#9007](https://github.com/windmill-labs/windmill/pull/9007) — fix: bind MySQL table listing to configured database name |
-| [**effect**](https://github.com/Effect-TS/effect) | ⭐ 14.6k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
+| [**effect**](https://github.com/Effect-TS/effect) | ⭐ 14.7k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
 | [**logto**](https://github.com/logto-io/logto) | ⭐ 12.2k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.7k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.5k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
