@@ -37,7 +37,7 @@ Merged PRs across **15 open-source repositories** — **15 contributions** and c
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
 | [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 149.9k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
-| [**dify**](https://github.com/langgenius/dify) | ⭐ 146.0k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 146.1k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
 | [**grafana**](https://github.com/grafana/grafana) | ⭐ 74.6k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 53.9k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 51.0k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
