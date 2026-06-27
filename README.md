@@ -38,9 +38,9 @@ Merged PRs across **16 open-source repositories** — **16 contributions** and c
 |------------|-------|-----|---------------------|
 | [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 150.1k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
 | [**dify**](https://github.com/langgenius/dify) | ⭐ 146.7k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
-| [**grafana**](https://github.com/grafana/grafana) | ⭐ 74.7k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
+| [**grafana**](https://github.com/grafana/grafana) | ⭐ 74.9k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 54.0k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
-| [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 51.7k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
+| [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 51.8k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**agno**](https://github.com/agno-agi/agno) | ⭐ 40.9k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
 | [**directus**](https://github.com/directus/directus) | ⭐ 36.3k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
 | [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 35.6k | 1 | [#11425](https://github.com/pnpm/pnpm/pull/11425) — fix(version): honor workspace selection for recursive ver... |
