@@ -42,8 +42,8 @@ Merged PRs across **19 open-source repositories** — **19 contributions** and c
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 55.4k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 55.2k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**agno**](https://github.com/agno-agi/agno) | ⭐ 41.8k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
-| [**directus**](https://github.com/directus/directus) | ⭐ 37.5k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
-| [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 36.1k | 1 | [#11425](https://github.com/pnpm/pnpm/pull/11425) — fix(version): honor workspace selection for recursive ver... |
+| [**directus**](https://github.com/directus/directus) | ⭐ 37.4k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
+| [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 36.2k | 1 | [#11425](https://github.com/pnpm/pnpm/pull/11425) — fix(version): honor workspace selection for recursive ver... |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 35.9k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
 | [**Scrapegraph-ai**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | ⭐ 29.8k | 1 | [#1126](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/1126) — fix(graph): expose when the 8192 token fallback was used |
 | [**serena**](https://github.com/oraios/serena) | ⭐ 28.3k | 1 | [#1884](https://github.com/oraios/serena/pull/1884) — fix(clojure): declare didChangeWatchedFiles client capabi... |
