@@ -37,13 +37,13 @@ Merged PRs across **19 open-source repositories** — **19 contributions** and c
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
 | [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 153.7k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
-| [**dify**](https://github.com/langgenius/dify) | ⭐ 153.6k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
-| [**grafana**](https://github.com/grafana/grafana) | ⭐ 76.4k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
-| [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 55.6k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 153.7k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**grafana**](https://github.com/grafana/grafana) | ⭐ 76.5k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
+| [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 55.7k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 55.4k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 | [**agno**](https://github.com/agno-agi/agno) | ⭐ 41.9k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
 | [**directus**](https://github.com/directus/directus) | ⭐ 37.6k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
-| [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 36.2k | 1 | [#11425](https://github.com/pnpm/pnpm/pull/11425) — fix(version): honor workspace selection for recursive ver... |
+| [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 36.3k | 1 | [#11425](https://github.com/pnpm/pnpm/pull/11425) — fix(version): honor workspace selection for recursive ver... |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 36.0k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
 | [**Scrapegraph-ai**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | ⭐ 30.0k | 1 | [#1126](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/1126) — fix(graph): expose when the 8192 token fallback was used |
 | [**serena**](https://github.com/oraios/serena) | ⭐ 28.5k | 1 | [#1884](https://github.com/oraios/serena/pull/1884) — fix(clojure): declare didChangeWatchedFiles client capabi... |
