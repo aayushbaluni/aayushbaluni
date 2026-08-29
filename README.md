@@ -49,7 +49,7 @@ Merged PRs across **19 open-source repositories** — **19 contributions** and c
 | [**serena**](https://github.com/oraios/serena) | ⭐ 28.6k | 1 | [#1884](https://github.com/oraios/serena/pull/1884) — fix(clojure): declare didChangeWatchedFiles client capabi... |
 | [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 26.4k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
 | [**windmill**](https://github.com/windmill-labs/windmill) | ⭐ 17.7k | 1 | [#9007](https://github.com/windmill-labs/windmill/pull/9007) — fix: bind MySQL table listing to configured database name |
-| [**effect**](https://github.com/Effect-TS/effect) | ⭐ 15.5k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
+| [**effect**](https://github.com/Effect-TS/effect) | ⭐ 15.6k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
 | [**logto**](https://github.com/logto-io/logto) | ⭐ 14.5k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.8k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.5k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
