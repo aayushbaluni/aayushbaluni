@@ -36,10 +36,10 @@ Merged PRs across **19 open-source repositories** — **19 contributions** and c
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 153.9k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
-| [**dify**](https://github.com/langgenius/dify) | ⭐ 153.9k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 154.0k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 154.0k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
 | [**grafana**](https://github.com/grafana/grafana) | ⭐ 76.5k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
-| [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 55.9k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
+| [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 56.0k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 55.4k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 | [**agno**](https://github.com/agno-agi/agno) | ⭐ 42.0k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
 | [**directus**](https://github.com/directus/directus) | ⭐ 37.7k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
@@ -54,7 +54,7 @@ Merged PRs across **19 open-source repositories** — **19 contributions** and c
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.8k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.5k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
 | [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.1k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
-| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 901 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
+| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 902 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
 <!-- CONTRIBUTIONS:END -->
 
 ---
