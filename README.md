@@ -36,7 +36,7 @@ Merged PRs across **19 open-source repositories** — **19 contributions** and c
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**dify**](https://github.com/langgenius/dify) | ⭐ 155.1k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 155.2k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
 | [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 154.5k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
 | [**grafana**](https://github.com/grafana/grafana) | ⭐ 76.7k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 56.5k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
@@ -45,9 +45,9 @@ Merged PRs across **19 open-source repositories** — **19 contributions** and c
 | [**directus**](https://github.com/directus/directus) | ⭐ 37.8k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
 | [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 36.5k | 1 | [#11425](https://github.com/pnpm/pnpm/pull/11425) — fix(version): honor workspace selection for recursive ver... |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 36.2k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
-| [**Scrapegraph-ai**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | ⭐ 30.7k | 1 | [#1126](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/1126) — fix(graph): expose when the 8192 token fallback was used |
-| [**serena**](https://github.com/oraios/serena) | ⭐ 29.0k | 1 | [#1884](https://github.com/oraios/serena/pull/1884) — fix(clojure): declare didChangeWatchedFiles client capabi... |
-| [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 26.4k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
+| [**Scrapegraph-ai**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | ⭐ 30.8k | 1 | [#1126](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/1126) — fix(graph): expose when the 8192 token fallback was used |
+| [**serena**](https://github.com/oraios/serena) | ⭐ 29.1k | 1 | [#1884](https://github.com/oraios/serena/pull/1884) — fix(clojure): declare didChangeWatchedFiles client capabi... |
+| [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 26.5k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
 | [**windmill**](https://github.com/windmill-labs/windmill) | ⭐ 17.8k | 1 | [#9007](https://github.com/windmill-labs/windmill/pull/9007) — fix: bind MySQL table listing to configured database name |
 | [**effect**](https://github.com/Effect-TS/effect) | ⭐ 15.9k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
 | [**logto**](https://github.com/logto-io/logto) | ⭐ 14.5k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
