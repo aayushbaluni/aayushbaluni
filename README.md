@@ -55,7 +55,7 @@ Merged PRs across **20 open-source repositories** — **20 contributions** and c
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.8k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.6k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
 | [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.2k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
-| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 931 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
+| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 932 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
 <!-- CONTRIBUTIONS:END -->
 
 ---
