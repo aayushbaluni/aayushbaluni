@@ -32,7 +32,7 @@ My stack lives at the intersection of AI infra, Solana, and full-stack engineeri
 ## Open Source
 
 <!-- CONTRIBUTIONS:START -->
-Merged PRs across **20 open-source repositories** — **20 contributions** and counting.
+Merged PRs across **21 open-source repositories** — **21 contributions** and counting.
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
@@ -52,6 +52,7 @@ Merged PRs across **20 open-source repositories** — **20 contributions** and c
 | [**windmill**](https://github.com/windmill-labs/windmill) | ⭐ 18.1k | 1 | [#9007](https://github.com/windmill-labs/windmill/pull/9007) — fix: bind MySQL table listing to configured database name |
 | [**effect**](https://github.com/Effect-TS/effect) | ⭐ 16.3k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
 | [**logto**](https://github.com/logto-io/logto) | ⭐ 14.6k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
+| [**harness-sdk**](https://github.com/strands-agents/harness-sdk) | ⭐ 8.6k | 1 | [#4694](https://github.com/strands-agents/harness-sdk/pull/4694) — fix(models): add context window limits for Sonnet 5.5, Op... |
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.8k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.6k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
 | [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.2k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
