@@ -41,7 +41,7 @@ Merged PRs across **21 open-source repositories** — **22 contributions** and c
 | [**grafana**](https://github.com/grafana/grafana) | ⭐ 77.1k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 57.9k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 55.5k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
-| [**agno**](https://github.com/agno-agi/agno) | ⭐ 42.5k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
+| [**agno**](https://github.com/agno-agi/agno) | ⭐ 42.6k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
 | [**directus**](https://github.com/directus/directus) | ⭐ 38.0k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
 | [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 36.7k | 1 | [#11425](https://github.com/pnpm/pnpm/pull/11425) — fix(version): honor workspace selection for recursive ver... |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 36.6k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
@@ -50,13 +50,13 @@ Merged PRs across **21 open-source repositories** — **22 contributions** and c
 | [**serena**](https://github.com/oraios/serena) | ⭐ 30.0k | 1 | [#1884](https://github.com/oraios/serena/pull/1884) — fix(clojure): declare didChangeWatchedFiles client capabi... |
 | [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 26.6k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
 | [**windmill**](https://github.com/windmill-labs/windmill) | ⭐ 18.1k | 1 | [#9007](https://github.com/windmill-labs/windmill/pull/9007) — fix: bind MySQL table listing to configured database name |
-| [**effect**](https://github.com/Effect-TS/effect) | ⭐ 16.8k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
-| [**logto**](https://github.com/logto-io/logto) | ⭐ 14.6k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
-| [**harness-sdk**](https://github.com/strands-agents/harness-sdk) | ⭐ 8.6k | 2 | [#4693](https://github.com/strands-agents/harness-sdk/pull/4693) — fix(bedrock): skip guardContent wrap for blank text |
+| [**effect**](https://github.com/Effect-TS/effect) | ⭐ 16.9k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
+| [**logto**](https://github.com/logto-io/logto) | ⭐ 14.7k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
+| [**harness-sdk**](https://github.com/strands-agents/harness-sdk) | ⭐ 8.7k | 2 | [#4693](https://github.com/strands-agents/harness-sdk/pull/4693) — fix(bedrock): skip guardContent wrap for blank text |
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.8k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.6k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
 | [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.2k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
-| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 933 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
+| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 934 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
 <!-- CONTRIBUTIONS:END -->
 
 ---
