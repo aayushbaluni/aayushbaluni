@@ -42,7 +42,7 @@ Merged PRs across **22 open-source repositories** — **24 contributions** and c
 | [**strapi**](https://github.com/strapi/strapi) | ⭐ 73.3k | 1 | [#28008](https://github.com/strapi/strapi/pull/28008) — fix(deps): bump the pinned axios and handlebars past thei... |
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 58.4k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 55.5k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
-| [**agno**](https://github.com/agno-agi/agno) | ⭐ 42.7k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
+| [**agno**](https://github.com/agno-agi/agno) | ⭐ 42.8k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
 | [**directus**](https://github.com/directus/directus) | ⭐ 38.5k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
 | [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 36.8k | 2 | [#11426](https://github.com/pnpm/pnpm/pull/11426) — fix: apply nodeDownloadMirrors from workspace config to N... |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 36.8k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
