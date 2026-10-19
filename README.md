@@ -38,7 +38,7 @@ Merged PRs across **22 open-source repositories** — **25 contributions** and c
 |------------|-------|-----|---------------------|
 | [**dify**](https://github.com/langgenius/dify) | ⭐ 158.8k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
 | [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 155.8k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
-| [**grafana**](https://github.com/grafana/grafana) | ⭐ 77.3k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
+| [**grafana**](https://github.com/grafana/grafana) | ⭐ 77.4k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**strapi**](https://github.com/strapi/strapi) | ⭐ 73.3k | 1 | [#28008](https://github.com/strapi/strapi/pull/28008) — fix(deps): bump the pinned axios and handlebars past thei... |
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 58.5k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 55.5k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
