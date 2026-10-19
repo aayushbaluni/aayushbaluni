@@ -36,7 +36,7 @@ Merged PRs across **22 open-source repositories** — **25 contributions** and c
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**dify**](https://github.com/langgenius/dify) | ⭐ 158.8k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 158.9k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
 | [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 155.8k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
 | [**grafana**](https://github.com/grafana/grafana) | ⭐ 77.4k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**strapi**](https://github.com/strapi/strapi) | ⭐ 73.3k | 1 | [#28008](https://github.com/strapi/strapi/pull/28008) — fix(deps): bump the pinned axios and handlebars past thei... |
@@ -47,7 +47,7 @@ Merged PRs across **22 open-source repositories** — **25 contributions** and c
 | [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 36.8k | 2 | [#11426](https://github.com/pnpm/pnpm/pull/11426) — fix: apply nodeDownloadMirrors from workspace config to N... |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 36.8k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
 | [**podman**](https://github.com/podman-container-tools/podman) | ⭐ 33.1k | 1 | [#28633](https://github.com/podman-container-tools/podman/pull/28633) — fix: include IPRange in Docker-compat network IPAM config |
-| [**Scrapegraph-ai**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | ⭐ 31.9k | 1 | [#1126](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/1126) — fix(graph): expose when the 8192 token fallback was used |
+| [**Scrapegraph-ai**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | ⭐ 32.0k | 1 | [#1126](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/1126) — fix(graph): expose when the 8192 token fallback was used |
 | [**serena**](https://github.com/oraios/serena) | ⭐ 30.4k | 1 | [#1884](https://github.com/oraios/serena/pull/1884) — fix(clojure): declare didChangeWatchedFiles client capabi... |
 | [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 26.8k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
 | [**windmill**](https://github.com/windmill-labs/windmill) | ⭐ 18.2k | 1 | [#9007](https://github.com/windmill-labs/windmill/pull/9007) — fix: bind MySQL table listing to configured database name |
