@@ -58,7 +58,7 @@ Merged PRs across **23 open-source repositories** — **26 contributions** and c
 | [**opendal**](https://github.com/apache/opendal) | ⭐ 5.4k | 1 | [#8385](https://github.com/apache/opendal/pull/8385) — fix(services/http): read a response that carries no conte... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.6k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
 | [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.2k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
-| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 938 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
+| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 939 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
 <!-- CONTRIBUTIONS:END -->
 
 ---
