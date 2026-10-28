@@ -43,7 +43,7 @@ Merged PRs across **24 open-source repositories** — **27 contributions** and c
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 59.9k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 55.5k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 | [**agno**](https://github.com/agno-agi/agno) | ⭐ 42.9k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
-| [**directus**](https://github.com/directus/directus) | ⭐ 38.6k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
+| [**directus**](https://github.com/directus/directus) | ⭐ 38.7k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 37.0k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
 | [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 36.9k | 2 | [#11426](https://github.com/pnpm/pnpm/pull/11426) — fix: apply nodeDownloadMirrors from workspace config to N... |
 | [**podman**](https://github.com/podman-container-tools/podman) | ⭐ 33.1k | 1 | [#28633](https://github.com/podman-container-tools/podman/pull/28633) — fix: include IPRange in Docker-compat network IPAM config |
