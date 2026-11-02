@@ -32,19 +32,19 @@ My stack lives at the intersection of AI infra, Solana, and full-stack engineeri
 ## Open Source
 
 <!-- CONTRIBUTIONS:START -->
-Merged PRs across **24 open-source repositories** — **27 contributions** and counting.
+Merged PRs across **24 open-source repositories** — **28 contributions** and counting.
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**dify**](https://github.com/langgenius/dify) | ⭐ 160.2k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
-| [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 156.2k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 160.3k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 156.3k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
 | [**grafana**](https://github.com/grafana/grafana) | ⭐ 77.6k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**strapi**](https://github.com/strapi/strapi) | ⭐ 73.4k | 1 | [#28008](https://github.com/strapi/strapi/pull/28008) — fix(deps): bump the pinned axios and handlebars past thei... |
 | [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 60.3k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 55.5k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
 | [**agno**](https://github.com/agno-agi/agno) | ⭐ 43.0k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
 | [**directus**](https://github.com/directus/directus) | ⭐ 38.8k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
-| [**medusa**](https://github.com/medusajs/medusa) | ⭐ 37.0k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
+| [**medusa**](https://github.com/medusajs/medusa) | ⭐ 37.1k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
 | [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 37.0k | 2 | [#11426](https://github.com/pnpm/pnpm/pull/11426) — fix: apply nodeDownloadMirrors from workspace config to N... |
 | [**podman**](https://github.com/podman-container-tools/podman) | ⭐ 33.2k | 1 | [#28633](https://github.com/podman-container-tools/podman/pull/28633) — fix: include IPRange in Docker-compat network IPAM config |
 | [**Scrapegraph-ai**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | ⭐ 32.4k | 1 | [#1126](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/1126) — fix(graph): expose when the 8192 token fallback was used |
@@ -56,7 +56,7 @@ Merged PRs across **24 open-source repositories** — **27 contributions** and c
 | [**logto**](https://github.com/logto-io/logto) | ⭐ 14.8k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
 | [**harness-sdk**](https://github.com/strands-agents/harness-sdk) | ⭐ 9.0k | 3 | [#4919](https://github.com/strands-agents/harness-sdk/pull/4919) — fix(sagemaker): keep assistant text that sits beside tool... |
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.8k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
-| [**opendal**](https://github.com/apache/opendal) | ⭐ 5.4k | 1 | [#8385](https://github.com/apache/opendal/pull/8385) — fix(services/http): read a response that carries no conte... |
+| [**opendal**](https://github.com/apache/opendal) | ⭐ 5.4k | 2 | [#8377](https://github.com/apache/opendal/pull/8377) — fix(core): keep the directory that failed during recursiv... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.6k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
 | [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.2k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
 | [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 945 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
