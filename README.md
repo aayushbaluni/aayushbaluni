@@ -54,7 +54,7 @@ Merged PRs across **25 open-source repositories** — **29 contributions** and c
 | [**prefect**](https://github.com/PrefectHQ/prefect) | ⭐ 24.1k | 1 | [#23307](https://github.com/PrefectHQ/prefect/pull/23307) — Fix `filter_files` aborting on a directory symlink cycle |
 | [**windmill**](https://github.com/windmill-labs/windmill) | ⭐ 18.5k | 1 | [#9007](https://github.com/windmill-labs/windmill/pull/9007) — fix: bind MySQL table listing to configured database name |
 | [**effect**](https://github.com/Effect-TS/effect) | ⭐ 17.5k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
-| [**logto**](https://github.com/logto-io/logto) | ⭐ 14.8k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
+| [**logto**](https://github.com/logto-io/logto) | ⭐ 14.9k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
 | [**harness-sdk**](https://github.com/strands-agents/harness-sdk) | ⭐ 9.1k | 3 | [#4919](https://github.com/strands-agents/harness-sdk/pull/4919) — fix(sagemaker): keep assistant text that sits beside tool... |
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.9k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
 | [**opendal**](https://github.com/apache/opendal) | ⭐ 5.5k | 2 | [#8377](https://github.com/apache/opendal/pull/8377) — fix(core): keep the directory that failed during recursiv... |
