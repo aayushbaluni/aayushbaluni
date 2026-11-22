@@ -36,7 +36,7 @@ Merged PRs across **25 open-source repositories** — **29 contributions** and c
 
 | Repository | Stars | PRs | Recent Contribution |
 |------------|-------|-----|---------------------|
-| [**dify**](https://github.com/langgenius/dify) | ⭐ 161.6k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
+| [**dify**](https://github.com/langgenius/dify) | ⭐ 161.7k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
 | [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 156.8k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
 | [**grafana**](https://github.com/grafana/grafana) | ⭐ 78.0k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**strapi**](https://github.com/strapi/strapi) | ⭐ 73.5k | 1 | [#28008](https://github.com/strapi/strapi/pull/28008) — fix(deps): bump the pinned axios and handlebars past thei... |
@@ -46,14 +46,14 @@ Merged PRs across **25 open-source repositories** — **29 contributions** and c
 | [**agno**](https://github.com/agno-agi/agno) | ⭐ 43.3k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
 | [**directus**](https://github.com/directus/directus) | ⭐ 38.6k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 37.4k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
-| [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 37.1k | 2 | [#11426](https://github.com/pnpm/pnpm/pull/11426) — fix: apply nodeDownloadMirrors from workspace config to N... |
+| [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 37.2k | 2 | [#11426](https://github.com/pnpm/pnpm/pull/11426) — fix: apply nodeDownloadMirrors from workspace config to N... |
 | [**podman**](https://github.com/podman-container-tools/podman) | ⭐ 33.4k | 1 | [#28633](https://github.com/podman-container-tools/podman/pull/28633) — fix: include IPRange in Docker-compat network IPAM config |
 | [**Scrapegraph-ai**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | ⭐ 32.9k | 1 | [#1126](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/1126) — fix(graph): expose when the 8192 token fallback was used |
 | [**serena**](https://github.com/oraios/serena) | ⭐ 31.6k | 1 | [#1884](https://github.com/oraios/serena/pull/1884) — fix(clojure): declare didChangeWatchedFiles client capabi... |
 | [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 27.1k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
 | [**prefect**](https://github.com/PrefectHQ/prefect) | ⭐ 24.2k | 1 | [#23307](https://github.com/PrefectHQ/prefect/pull/23307) — Fix `filter_files` aborting on a directory symlink cycle |
 | [**windmill**](https://github.com/windmill-labs/windmill) | ⭐ 18.7k | 1 | [#9007](https://github.com/windmill-labs/windmill/pull/9007) — fix: bind MySQL table listing to configured database name |
-| [**effect**](https://github.com/Effect-TS/effect) | ⭐ 17.6k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
+| [**effect**](https://github.com/Effect-TS/effect) | ⭐ 17.7k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
 | [**logto**](https://github.com/logto-io/logto) | ⭐ 15.0k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
 | [**harness-sdk**](https://github.com/strands-agents/harness-sdk) | ⭐ 9.3k | 3 | [#4919](https://github.com/strands-agents/harness-sdk/pull/4919) — fix(sagemaker): keep assistant text that sits beside tool... |
 | [**reth**](https://github.com/paradigmxyz/reth) | ⭐ 5.9k | 1 | [#23075](https://github.com/paradigmxyz/reth/pull/23075) — fix(net): disable Discv5 ENR auto-update when NAT disable... |
