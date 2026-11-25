@@ -38,13 +38,13 @@ Merged PRs across **25 open-source repositories** — **29 contributions** and c
 |------------|-------|-----|---------------------|
 | [**dify**](https://github.com/langgenius/dify) | ⭐ 161.9k | 1 | [#35263](https://github.com/langgenius/dify/pull/35263) — fix: apply score threshold after reranking in hybrid search |
 | [**langflow**](https://github.com/langflow-ai/langflow) | ⭐ 156.9k | 1 | [#12712](https://github.com/langflow-ai/langflow/pull/12712) — fix: strip reserved 'code' param before build() in compon... |
-| [**grafana**](https://github.com/grafana/grafana) | ⭐ 78.1k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
+| [**grafana**](https://github.com/grafana/grafana) | ⭐ 78.2k | 1 | [#123976](https://github.com/grafana/grafana/pull/123976) — fix: normalize undefined and empty array in adHocVariable... |
 | [**strapi**](https://github.com/strapi/strapi) | ⭐ 73.5k | 1 | [#28008](https://github.com/strapi/strapi/pull/28008) — fix(deps): bump the pinned axios and handlebars past thei... |
-| [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 61.4k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
+| [**twenty**](https://github.com/twentyhq/twenty) | ⭐ 61.5k | 1 | [#20192](https://github.com/twentyhq/twenty/pull/20192) — fix: handle missing file entity in avatar deletion listener |
 | [**Flowise**](https://github.com/FlowiseAI/Flowise) | ⭐ 55.6k | 1 | [#5993](https://github.com/FlowiseAI/Flowise/pull/5993) — fix: migrate Weaviate to weaviate-client v3 for agentKnow... |
-| [**bruno**](https://github.com/usebruno/bruno) | ⭐ 48.5k | 1 | [#9512](https://github.com/usebruno/bruno/pull/9512) — fix(app): apply form bodies when a cURL command is pasted... |
+| [**bruno**](https://github.com/usebruno/bruno) | ⭐ 48.6k | 1 | [#9512](https://github.com/usebruno/bruno/pull/9512) — fix(app): apply form bodies when a cURL command is pasted... |
 | [**agno**](https://github.com/agno-agi/agno) | ⭐ 43.3k | 1 | [#7766](https://github.com/agno-agi/agno/pull/7766) — fix: preserve Anthropic server tool content blocks in mes... |
-| [**directus**](https://github.com/directus/directus) | ⭐ 38.6k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
+| [**directus**](https://github.com/directus/directus) | ⭐ 38.7k | 1 | [#27121](https://github.com/directus/directus/pull/27121) — Fix batch update failures in the MCP files tool |
 | [**medusa**](https://github.com/medusajs/medusa) | ⭐ 37.4k | 1 | [#15109](https://github.com/medusajs/medusa/pull/15109) — fix(file-s3): encode URL path segments individually to pr... |
 | [**pnpm**](https://github.com/pnpm/pnpm) | ⭐ 37.2k | 2 | [#11426](https://github.com/pnpm/pnpm/pull/11426) — fix: apply nodeDownloadMirrors from workspace config to N... |
 | [**podman**](https://github.com/podman-container-tools/podman) | ⭐ 33.4k | 1 | [#28633](https://github.com/podman-container-tools/podman/pull/28633) — fix: include IPRange in Docker-compat network IPAM config |
@@ -60,7 +60,7 @@ Merged PRs across **25 open-source repositories** — **29 contributions** and c
 | [**opendal**](https://github.com/apache/opendal) | ⭐ 5.5k | 2 | [#8377](https://github.com/apache/opendal/pull/8377) — fix(core): keep the directory that failed during recursiv... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.6k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
 | [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.2k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
-| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 951 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
+| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 952 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
 <!-- CONTRIBUTIONS:END -->
 
 ---
