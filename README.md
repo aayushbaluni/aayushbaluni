@@ -51,7 +51,7 @@ Merged PRs across **25 open-source repositories** — **29 contributions** and c
 | [**Scrapegraph-ai**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | ⭐ 33.0k | 1 | [#1126](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/1126) — fix(graph): expose when the 8192 token fallback was used |
 | [**serena**](https://github.com/oraios/serena) | ⭐ 31.7k | 1 | [#1884](https://github.com/oraios/serena/pull/1884) — fix(clojure): declare didChangeWatchedFiles client capabi... |
 | [**haystack**](https://github.com/deepset-ai/haystack) | ⭐ 27.1k | 1 | [#10851](https://github.com/deepset-ai/haystack/pull/10851) — docs: fix OpenAPIServiceConnector and OpenAPIServiceToFun... |
-| [**prefect**](https://github.com/PrefectHQ/prefect) | ⭐ 24.2k | 1 | [#23307](https://github.com/PrefectHQ/prefect/pull/23307) — Fix `filter_files` aborting on a directory symlink cycle |
+| [**prefect**](https://github.com/PrefectHQ/prefect) | ⭐ 24.3k | 1 | [#23307](https://github.com/PrefectHQ/prefect/pull/23307) — Fix `filter_files` aborting on a directory symlink cycle |
 | [**windmill**](https://github.com/windmill-labs/windmill) | ⭐ 18.7k | 1 | [#9007](https://github.com/windmill-labs/windmill/pull/9007) — fix: bind MySQL table listing to configured database name |
 | [**effect**](https://github.com/Effect-TS/effect) | ⭐ 17.7k | 1 | [#6178](https://github.com/Effect-TS/effect/pull/6178) — fix(ai-openai): deduplicate response.output items to prev... |
 | [**logto**](https://github.com/logto-io/logto) | ⭐ 15.0k | 1 | [#8747](https://github.com/logto-io/logto/pull/8747) — fix: tighten URL detection in email connector to avoid fa... |
@@ -60,7 +60,7 @@ Merged PRs across **25 open-source repositories** — **29 contributions** and c
 | [**opendal**](https://github.com/apache/opendal) | ⭐ 5.5k | 2 | [#8377](https://github.com/apache/opendal/pull/8377) — fix(core): keep the directory that failed during recursiv... |
 | [**supabase-js**](https://github.com/supabase/supabase-js) | ⭐ 4.6k | 1 | [#2175](https://github.com/supabase/supabase-js/pull/2175) — fix(postgrest): add type safety for eq() and neq() column... |
 | [**graph-node**](https://github.com/graphprotocol/graph-node) | ⭐ 3.2k | 1 | [#6443](https://github.com/graphprotocol/graph-node/pull/6443) — fix: extract file path from IPC URI before passing to tra... |
-| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 952 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
+| [**sdk-typescript**](https://github.com/temporalio/sdk-typescript) | ⭐ 953 | 1 | [#2036](https://github.com/temporalio/sdk-typescript/pull/2036) — fix: clean up childWorkflowComplete entry on child start ... |
 <!-- CONTRIBUTIONS:END -->
 
 ---
